@@ -152,7 +152,5 @@ To reproduce our OpTune performance, you can download our checkpoints for each d
 | GSM8K | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png" alt="Google Drive Icon" width="20" height="20">](https://drive.google.com/file/d/1RCmD00_9_BDPIexL2W9FcZwSu-HxQhmp/view?usp=sharing) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png" alt="Google Drive Icon" width="20" height="20">](https://drive.google.com/file/d/1dD7TsMTf7DYWp0GzHgYZpYkWey80-UGU/view?usp=sharing) |
 | MBPP | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png" alt="Google Drive Icon" width="20" height="20">](https://drive.google.com/file/d/15oomWNg3sEoTDKl0FBaZBjCva7Jookkz/view?usp=sharing) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png" alt="Google Drive Icon" width="20" height="20">](https://drive.google.com/file/d/12Furc43EewaOPlJBssgRb7SGeGX11fVB/view?usp=sharing) |
 
-##  Acknowledgement
 
-Some of our implementations are based on [MEND](https://github.com/eric-mitchell/mend). We would like to thank the authors for sharing their code.
 
